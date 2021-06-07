@@ -17,7 +17,7 @@ def jogar():
 
     for letra in palavra_secreta:
       if(chute.upper() == letra.upper()):
-        print("Encontrei a letra{} na posição {}".format(chute, index))
+        print("Encontrei a letra {} na posição {}".format(chute, index))
       index = index + 1
     print("jogando ...")
 
