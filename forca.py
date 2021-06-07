@@ -8,9 +8,7 @@ def jogar():
   enforcou = False
   acertou = False
 
-  #enquanto(True E True)
-
-  while(nao enforcou E nao acertou):
+  while(not enforcou and not acertou):
     print("jogando ...")
 
   print("Fim do jogo")
