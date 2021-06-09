@@ -151,5 +151,4 @@ def carrega_palavra_secreta():
     return palavra_secreta
 
 if(__name__ == "__main__"):
-    jogar()
-    
+    jogar()    
